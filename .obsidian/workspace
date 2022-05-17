@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "1697bb27a88f0e7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "656cb7b8c0133f92",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "++Home.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03199b7c8755fb07",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b782bdd1b699b8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "941d526b69985541",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 150
+  },
+  "right": {
+    "id": "3ed2d63dad115d8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "68e09cbcd3995639",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8a4a66dbe747ad7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "++Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20f32953358d570a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "++Home.md"
+              }
+            }
+          },
+          {
+            "id": "270d0971d9f7d461",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "++Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5eea8491d1dbd8aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4b9fc41dd2fd972",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d5551560448412b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 545,
+    "collapsed": true
+  },
+  "active": "656cb7b8c0133f92",
+  "lastOpenFiles": [
+    "++Home.md",
+    "git add.md",
+    "Git merge.md",
+    "git branch.md",
+    "git pull.md",
+    "Sources/Pasted image 20220517132400.png",
+    "git push.md",
+    "git status.md",
+    "git commit.md",
+    "Repository.md"
+  ]
+}
