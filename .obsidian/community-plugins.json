@@ -13,5 +13,6 @@
   "homepage",
   "obsidian-reminder-plugin",
   "obsidian-tasks-plugin",
-  "calendar"
+  "calendar",
+  "obsidian-git"
 ]
