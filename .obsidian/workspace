@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tasks.md",
-            "mode": "source",
+            "file": "git init.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -55,7 +55,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "git init.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "git init.md"
               }
             }
           },
@@ -82,7 +82,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "git init.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,15 +124,15 @@
   },
   "active": "5580b8c00d871e98",
   "lastOpenFiles": [
-    "Tasks.md",
+    "git init.md",
     "++Home.md",
+    "Tasks.md",
     "README.md",
     "git add.md",
     "Git merge.md",
     "git branch.md",
     "git pull.md",
     "Sources/Pasted image 20220517132400.png",
-    "git push.md",
-    "git status.md"
+    "git push.md"
   ]
 }

@@ -1,11 +1,18 @@
 {
   "scanned": true,
   "reminders": {
-    "Tasks.md": [
+    "++Home.md": [
       {
         "title": "Git扩展阅读",
         "time": "2022-05-18",
-        "rowNumber": 0
+        "rowNumber": 114
+      }
+    ],
+    "git init.md": [
+      {
+        "title": "细节阅读",
+        "time": "2022-05-18",
+        "rowNumber": 7
       }
     ]
   },
