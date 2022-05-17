@@ -102,8 +102,9 @@ Git 分支模型很像是树杈结构。这对添加新功能或修改bug非常�
 
 
 https://livecodestream.dev/post/five-advanced-git-concepts-that-make-you-look-like-a-pro/ 
--[ ] 阅读上述选项(@2022-05-18)
-
+- [ ] 阅读上述选项(@2022-05-18)
+https://www.atlassian.com/git/tutorials/making-a-pull-request#where-to-go
+- [ ] 不错的信息组织形式(@2022-05-18)
 
 ## ⌨️操作 #操作
 

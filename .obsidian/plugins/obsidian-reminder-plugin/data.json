@@ -1,6 +1,19 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "++Home.md": [
+      {
+        "title": "阅读上述选项",
+        "time": "2022-05-18",
+        "rowNumber": 104
+      },
+      {
+        "title": "不错的信息组织形式",
+        "time": "2022-05-18",
+        "rowNumber": 106
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
