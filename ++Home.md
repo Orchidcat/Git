@@ -100,9 +100,7 @@ Git 分支模型很像是树杈结构。这对添加新功能或修改bug非常�
 
 如果一个特定的文件在两个不同的分支中，将会产生合并冲突，这需要手工查看文件并删除其中一个。
 
-- [ ] 阅读下述 📅 2022-05-17
-https://livecodestream.dev/post/five-advanced-git-concepts-that-make-you-look-like-a-pro/ 
-https://www.atlassian.com/git/tutorials/making-a-pull-request#where-to-go
+
 
 ## ⌨️操作 #操作
 
