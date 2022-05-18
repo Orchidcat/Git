@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "++Home.md",
+            "file": "Repository.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -55,7 +55,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "++Home.md",
+                "file": "Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "++Home.md"
+                "file": "Repository.md"
               }
             }
           },
@@ -82,7 +82,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "++Home.md",
+                "file": "Repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -124,6 +124,7 @@
   },
   "active": "1121553a9cbbb88d",
   "lastOpenFiles": [
+    "Repository.md",
     "++Home.md",
     "git init.md",
     "Tasks.md",
@@ -132,7 +133,6 @@
     "Git merge.md",
     "git branch.md",
     "git pull.md",
-    "Sources/Pasted image 20220517132400.png",
-    "git push.md"
+    "Sources/Pasted image 20220517132400.png"
   ]
 }
